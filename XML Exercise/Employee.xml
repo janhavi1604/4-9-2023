@@ -1,0 +1,18 @@
+<Employee>
+<EmployeeDetails id="1">
+<EmployeeName>Peter</EmployeeName>
+<Department>Sales</Department>
+<Net_Salary>
+ <Basic_Salary>15000</Basic_Salary>
+ <DearnessAllowance>2000</DearnessAllowance>
+</NetSalary>
+</EmployeeDetails>
+<EmployeeDetails id="2">
+<EmployeeName>Max</EmployeeName>
+<Department>Sales</Department>
+<Net_Salary>
+ <Basic_Salary>25000</Basic_Salary>
+ <DearnessAllowance>7000</DearnessAllowance>
+</NetSalary>
+</EmployeeDetails>
+</Employee>
